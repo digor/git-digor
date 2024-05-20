@@ -1,0 +1,6 @@
+.idea/
+bin/
+admin/
+config/
+git-first-project.iml
+*.sass
